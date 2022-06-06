@@ -1,2 +1,2 @@
 # DesafioPTA-Form
-Desafio opcional do PSC 2022.1 - PTA
+Desafio do PSC 2022.1 - PTA sobre Styled Components
